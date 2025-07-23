@@ -5,7 +5,7 @@ import time
 
 # === Configuration ===
 BOT_TOKEN = '7786407965:AAHlLwNr8x_Q-2SFhHoTKaPSth9hQgdJ6rM'
-MY_CHAT_ID = -123456789  # Replace with your Telegram user ID
+MY_CHAT_ID = -1002613165023  # Replace with your Telegram user ID
 SEND_INTERVAL = 300    # 1 hour = 3600 seconds
 msg = '''
 📢
