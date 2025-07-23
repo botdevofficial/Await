@@ -7,13 +7,13 @@ import time
 BOT_TOKEN = '7786407965:AAHlLwNr8x_Q-2SFhHoTKaPSth9hQgdJ6rM'
 MY_CHAT_ID = -1002613165023  # Replace with your Telegram user ID
 SEND_INTERVAL = 300    # 1 hour = 3600 seconds
-msg = '''
+#msg = '''
 📢
 
-Free 15 🌟 in just a few clicks and tasks
+#Free 15 🌟 in just a few clicks and tasks
 
-https://t.me/StarsFarmRobot?start=1795489177
-'''
+#https://t.me/StarsFarmRobot?start=1795489177
+#'''
 bot = Bot(token=BOT_TOKEN)
 app = Flask(__name__)
 
@@ -26,7 +26,7 @@ def health():
 def send_alive_messages():
     while True:
         try:
-            bot.send_message(chat_id=MY_CHAT_ID, text=msg)
+            bot.send_message(chat_id=MY_CHAT_ID, text = "hello" )
             print("Message sent.")
         except Exception as e:
             print(f"Error sending message: {e}")
