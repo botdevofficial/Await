@@ -10,8 +10,9 @@ MY_CHAT_ID = -1002613165023
 SEND_INTERVAL = 300  # 5 minutes
 
 msg = '''
-hello 🤗 
-nice to meet you
+Free 15 🌟 in just a few clicks and tasks
+
+https://t.me/StarsFarmRobot?start=1795489177
 '''
 
 bot = Bot(token=BOT_TOKEN)
