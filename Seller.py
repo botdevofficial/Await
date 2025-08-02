@@ -10,9 +10,11 @@ MY_CHAT_ID = -1002613165023
 SEND_INTERVAL = 600  # 5 minutes
 
 msg = '''
-Free 15 🌟 in just a few clicks and tasks
+<b>please join</b>
 
-https://t.me/StarsFarmRobot?start=1795489177
+<a href="https://t.me/share/url?url=https://t.me/+K8pQ_KJ4tF9mMjM1">SHARE</a>
+
+https://t.me/+K8pQ_KJ4tF9mMjM1
 '''
 
 bot = Bot(token=BOT_TOKEN)
