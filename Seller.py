@@ -10,11 +10,11 @@ MY_CHAT_ID = -1002613165023
 SEND_INTERVAL = 600  # 5 minutes
 
 msg = '''
-<b>please join</b>
+<b>join this bot now🖇️✨</b>
 
-<a href="https://t.me/share/url?url=https://t.me/+K8pQ_KJ4tF9mMjM1">SHARE</a>
+<a href="https://t.me/share/url?url=https://t.me/Anoni67_bot">SHARE</a>
 
-https://t.me/+K8pQ_KJ4tF9mMjM1
+https://t.me/Anoni67_bot?start=8009876932
 '''
 
 bot = Bot(token=BOT_TOKEN)
